@@ -1,7 +1,0 @@
-clear all;
-clc;
-random = rand(1)*10
-
-while random >2 ||
-n = input("Enter n: " );
-end
