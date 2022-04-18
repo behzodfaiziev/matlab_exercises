@@ -12,4 +12,3 @@ else
 end
 vector = [x1;x2];
 disp(vector);
-
